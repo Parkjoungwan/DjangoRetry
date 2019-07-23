@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d2f25ea-a4bb-4246-8b96-723a8ca29b38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/testproject2/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/testproject2/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_home/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +21,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testproject2/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
@@ -96,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app_home/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -139,7 +139,6 @@
       <list>
         <option value="$PROJECT_DIR$/app_home/Templates/first.html" />
         <option value="$PROJECT_DIR$/app_home/Templates/greentea.html" />
-        <option value="$PROJECT_DIR$/app_home/views.py" />
         <option value="$PROJECT_DIR$/testproject2/urls.py" />
         <option value="$PROJECT_DIR$/app_home/Templates/LIKELION.html" />
         <option value="$PROJECT_DIR$/app_home/Templates/LGV50.html" />
@@ -147,11 +146,12 @@
         <option value="$PROJECT_DIR$/runtime" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/testproject2/settings.py" />
+        <option value="$PROJECT_DIR$/app_home/views.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="595" />
+    <option name="x" value="745" />
     <option name="width" value="1022" />
     <option name="height" value="768" />
   </component>
@@ -169,6 +169,17 @@
             <path>
               <item name="testproject2" type="b2602c69:ProjectViewProjectNode" />
               <item name="testproject2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject2" type="462c0819:PsiDirectoryNode" />
+              <item name="app_home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testproject2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject2" type="462c0819:PsiDirectoryNode" />
+              <item name="app_home" type="462c0819:PsiDirectoryNode" />
+              <item name="Templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testproject2" type="b2602c69:ProjectViewProjectNode" />
@@ -221,7 +232,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="595" y="0" width="1022" height="768" extended-state="0" />
+    <frame x="745" y="0" width="1022" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -294,30 +305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_home/Templates/first.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app_home/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testproject2/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#636#668#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -350,6 +337,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_home/Templates/first.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject2/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#636#668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
